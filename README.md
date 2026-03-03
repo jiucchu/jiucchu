@@ -12,8 +12,8 @@
 - [**EEOS**](https://github.com/JNU-econovation/EEOS) - 문장 유사도 기반 팀 매칭 AI (AI Engineer / FastAPI·AWS)
 - [**Chack Check**](https://github.com/JNU-econovation/Chack-Check) - 동아리 내 작은 도서관 웹 (FE / React)
 ### SSAFY
-- [**zip-chack**]() [SSAFY 1학기 최종 프로젝트 최우수 프로젝트]- LLM 기반 맞춤형 원룸 추천 서비스 (FULL / View·Spring Boot·AWS)
-- [**CONY**]() [SSAFY 2학기 1차(공통) 프로젝트 우수 프로젝트]- AI 및 위치 기반 기프티콘 관리/추천 서비스 (FULL·PM / React-Native·Spring Boot)
+- [**zip-chack**] [SSAFY 1학기 최종 프로젝트 최우수 프로젝트]- LLM 기반 맞춤형 원룸 추천 서비스 (FULL / View·Spring Boot·AWS)
+- [**CONY**] [SSAFY 2학기 1차(공통) 프로젝트 우수 프로젝트]- AI 및 위치 기반 기프티콘 관리/추천 서비스 (FULL·PM / React-Native·Spring Boot)
 
 
 
